@@ -24,8 +24,8 @@ This tutorial outlines the implementation creating a virtul machine within Azure
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Step 1 create a subscription in Azure 
-- Step 2 select create virtual machine
-- Step 3 Create a resource group
+- Step 2 Create a resource group
+- Step 3 Select create virtual machine
 - Step 4 Create a vitural machine
 
 <h2>Deployment and Configuration Steps</h2>
